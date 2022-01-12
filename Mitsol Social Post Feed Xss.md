@@ -5,4 +5,4 @@
 # Vulnerability Type: Stored Cross-Site Scripting
 # Tested on Windows 10 、XAMPP
 # Vulnerability proof：  
-![image]()  
+![images](https://github.com/BigTiger2020/2022/blob/main/Mitsol%20Social%20Post%20Feed.gif)  
