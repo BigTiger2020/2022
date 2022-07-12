@@ -5,4 +5,4 @@
 # Vulnerability Type: SQL injection
 # Tested on Windows 10 、XAMPP
 # Vulnerability proof：  
-![images](https://github.com/BigTiger2020/2022/blob/main/WordPress%20Visual%20Slide%20Box%20Builder%20plugin%20sql.gif)  
+![image](https://github.com/BigTiger2020/2022/blob/main/WordPress%20Visual%20Slide%20Box%20Builder%20plugin%20sql.gif)  
